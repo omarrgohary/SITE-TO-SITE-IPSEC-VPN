@@ -129,6 +129,3 @@ Test the VPN: Send pings and inspect routing tables to confirm HQ-Branch communi
 
 Conclusion
 This project demonstrates the configuration of a Site-to-Site IPSec VPN using Cisco Packet Tracer, integrating VLANs, OSPF routing, and ASA Firewalls to ensure secure communication between geographically separated networks.
-
-pgsql
-Copy code
